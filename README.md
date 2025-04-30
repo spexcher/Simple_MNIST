@@ -27,12 +27,12 @@ Before running the code, make sure you have Python 3 and the required libraries 
 pip install torch torchvision numpy matplotlib
 ```
 
-#Cloning the Repository
+## Cloning the Repository
 To clone this repository, run the following command:
 
 ```bash
 git clone https://github.com/spexcher/Simple_MNIST.git
 cd Simple_MNIST
 ```
-#Running the Code
+## Running the Code
 To train the model and evaluate the accuracy, simply run the ipynb in Jupyter Notebook
